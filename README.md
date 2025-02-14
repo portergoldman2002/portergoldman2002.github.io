@@ -8,7 +8,7 @@ GitHub page for: CS - 155
 
 ---
 
-## Example GitHub Page!
+## More Information & Links!
 
 Hello! This is my GitHub page for CS - 155 :)
 
